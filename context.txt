@@ -1,2 +1,129 @@
-Welcome OTC FSS Start with python !
+- Welcome OTC FSS Start with python !
+- On parle en peut du formation
+ maintenant 
+- formation python assureé par
+ otc fss club et tik.tn 
+- otc fss club informatique en 
+faculté des sciences de sfax
+- tik.tn boite de develepement informatique
+ centre de formation , solution d hebergement
+- en parle maitenant au certification 
+- le meilleur project va etre passé au 
+radio sfax avec ali margouki
+- alors qui connait python ?
+- qui sont informaticien ici ? 
+- qui sont non informaticien ? 
+- welcome all :) 
+- so il ya un question ici ! :D 
+- why i 'm here  ?! 
+- So what is python ??! 
+- python is programming language easy to
+ learn (you dont need any cs backgroud)
+- python powerfull
+- python simple 
+- python poo , scription , procuderal 
+- So taw a3rafna c koi python 
+- la question !! pk python ?!!
+- sliders 6
+- who use python
+- google , youtube , instagram , nasa , .....
+- oki nes kol taw et9oul hethom chariket ikbar 
+w project ikbar manejmouch nouslolhom
+- ama choufo em3aya quelque project ma5doumin 
+bel python dans notre societé tik.tn
+- demo 1 automatisation fb 
+- demo 2 automatisation instagram
+- demo 3 instagram web site following 
+- demo 4 youtube top 50 
+- demo 5 samsara
+- demo 6 ciao space and Truth or Dare
+- so python resume or python on quelque mot 
+- slides 11
+- oki python raja3houlna super man !!! maho les 
+language de programation kol ya3melo hetha !
+- No !! only python can do this , les autres 
+language sont limité pour une seule tache ;)
+- petit comparaison entre python and others language 
+- slides 12 , 13 
+- So keep calm and you use python 
+- ici ena we7ed mel nes eli mechi ikoun bien motivé et
+ va adabté rapidement avec cette language je vais de 
+lui proposer un offre de travil chez tik.tn
+- so en commance avec python !! :D
+- Insatall python 
+- echkoun ma3andouch python masboub ihez ido 
+- alors dawro flash and sobo python
+- windows users , set your envirement variables 
+- cheeck if python existe
+- nes kol cv 3andeha python taw masboub alors en
+ peux commancer a codeé
+- say hi with python 
+- use python as calculator
+- Variables and affectation
+- les type primitive 
+- int , float , bool , None , ...
+- operator
+- coparaison
+- string
+- ensemble des carractere entre cote c sa les string
+- slides 27
+- more en string 
+- ch[0] first char
+- ch[-1] last char
+- ch[6:10] -> de i = 6 a i = 9 
+- slides 31
+- ch[:2] -> 2 lettre primiere
+- ch[4:] -> mel 4 lil fin 
+- len(variable)
+- slides 33
+- capitalize()
+- count('e')
+- find('e') -> -1 not found,first index found
+- index('e') -> exception or index
+- isalpha() -> bool
+- isdigit() -> bool
+- istitle() -> bool , cheeck is upper first char
+- upper() -> majuscule
+- lower() -> muniscule
+- replace() -> str.replace(old, new, max)
+* old  This is old substring to be replaced.
+* new  This is new substring 
+* max optionel : count of replace first max finding
+
+str = "this is string example....wow!!! this is really string"
+print str.replace("is", "was")
+print str.replace("is", "was", 3)
+
+- str.split(str, num).
+* str char or string to split on
+* num number of split (min 1 ) 
+
+str = "Line1-abcdef \nLine2-abc \nLine4-abcd";
+print str.split(' ')
+print str.split(' ', 1 ) 
+
+- type complex
+- permutation
+- list 
+- append add on last of list 
+- pop depiler
+- append (ajouter un list comme
+un seul element
+- extend ajouter un des element a la list
+- extend == list += list2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
